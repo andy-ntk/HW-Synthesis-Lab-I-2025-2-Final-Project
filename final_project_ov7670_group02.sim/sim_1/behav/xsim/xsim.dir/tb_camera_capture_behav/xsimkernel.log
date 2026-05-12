@@ -2,3 +2,6 @@ Running: xsim.dir/tb_camera_capture_behav/xsimk -simmode gui -wdb tb_camera_capt
 Design successfully loaded
 Design Loading Memory Usage: 572396 KB (Peak: 572396 KB)
 Design Loading CPU Usage: 1130 ms
+Simulation completed
+Simulation Memory Usage: 654996 KB (Peak: 711556 KB)
+Simulation CPU Usage: 1140 ms
