@@ -1,0 +1,4 @@
+Running: xsim.dir/tb_camera_capture_behav/xsimk -simmode gui -wdb tb_camera_capture_behav.wdb -simrunnum 0 -socket 64737
+Design successfully loaded
+Design Loading Memory Usage: 572396 KB (Peak: 572396 KB)
+Design Loading CPU Usage: 1130 ms

@@ -1,0 +1,11 @@
+0.7
+2020.2
+Nov 14 2025
+12:36:23
+/home/user/final_project_ov7670_group02/final_project_ov7670_group02.sim/sim_1/behav/xsim/glbl.v,1756381829,verilog,,,,glbl,,,,,,,,
+/home/user/final_project_ov7670_group02/final_project_ov7670_group02.srcs/sim_1/new/tb_camera_capture.v,1778554494,verilog,,,,tb_camera_capture,,,../../../../../Xilinx/2025.2/data/rsb/busdef;../../../../final_project_ov7670_group02.ip_user_files/ipstatic,,,,,
+/home/user/final_project_ov7670_group02/final_project_ov7670_group02.srcs/sim_1/new/tb_pixel_filter.v,1778264870,verilog,,,,tb_pixel_filter,,,../../../../../Xilinx/2025.2/data/rsb/busdef;../../../../final_project_ov7670_group02.ip_user_files/ipstatic,,,,,
+/home/user/final_project_ov7670_group02/final_project_ov7670_group02.srcs/sim_1/new/tb_vga.v,1778264880,verilog,,,,tb_vga,,,../../../../../Xilinx/2025.2/data/rsb/busdef;../../../../final_project_ov7670_group02.ip_user_files/ipstatic,,,,,
+/home/user/final_project_ov7670_group02/final_project_ov7670_group02.srcs/sources_1/imports/new/camera_capture.v,1778257505,verilog,,/home/user/final_project_ov7670_group02/final_project_ov7670_group02.srcs/sim_1/new/tb_camera_capture.v,,ov7670_capture,,,../../../../../Xilinx/2025.2/data/rsb/busdef;../../../../final_project_ov7670_group02.ip_user_files/ipstatic,,,,,
+/home/user/final_project_ov7670_group02/final_project_ov7670_group02.srcs/sources_1/imports/new/pixel_filter.v,1778257630,verilog,,/home/user/final_project_ov7670_group02/final_project_ov7670_group02.srcs/sim_1/new/tb_pixel_filter.v,,pixel_filter,,,../../../../../Xilinx/2025.2/data/rsb/busdef;../../../../final_project_ov7670_group02.ip_user_files/ipstatic,,,,,
+/home/user/final_project_ov7670_group02/final_project_ov7670_group02.srcs/sources_1/imports/new/vga_disp.v,1778257819,verilog,,/home/user/final_project_ov7670_group02/final_project_ov7670_group02.srcs/sim_1/new/tb_vga.v,,vga,,,../../../../../Xilinx/2025.2/data/rsb/busdef;../../../../final_project_ov7670_group02.ip_user_files/ipstatic,,,,,

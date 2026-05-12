@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  --include "../../../../../Xilinx/2025.2/data/rsb/busdef" --include "../../../../final_project_ov7670_group02.ip_user_files/ipstatic" \
+"../../../../final_project_ov7670_group02.srcs/sources_1/imports/new/camera_capture.v" \
+"../../../../final_project_ov7670_group02.srcs/sim_1/new/tb_camera_capture.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,18 @@
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2025 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2025.2 (lin64) Build 6299465 Fri Nov 14 12:34:56 MST 2025
+| Date         : Fri May  8 16:47:00 2026
+| Host         : docker-desktop running 64-bit Ubuntu"
+VERSION_ID="22.04 22.04.5 LTS (Jammy Jellyfish)"
+VERSION_CODENAME=jammy
+| Command      : report_bus_skew -warn_on_violation -file ov7670_top_bus_skew_routed.rpt -pb ov7670_top_bus_skew_routed.pb -rpx ov7670_top_bus_skew_routed.rpx
+| Design       : ov7670_top
+| Device       : 7a35t-cpg236
+| Speed File   : -1  PRODUCTION 1.23 2018-06-13
+| Design State : Routed
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Bus Skew Report
+
+No bus skew constraints
+
