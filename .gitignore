@@ -1,0 +1,42 @@
+# Xilinx Vivado generated files and directories
+final_project_ov7670_group02.cache/
+final_project_ov7670_group02.gen/
+final_project_ov7670_group02.hw/
+final_project_ov7670_group02.ip_user_files/
+final_project_ov7670_group02.runs/
+final_project_ov7670_group02.sim/
+
+# Vivado Log and Journal files
+*.log
+*.jou
+*.str
+*.debug
+*.tmp
+*.rst
+*.os
+*.js
+*.pb
+*.dcp
+*.hwdef
+*.vds
+*.veo
+*.wdf
+*.vdi
+*.dmp
+*.rpx
+*.rpt
+*_stub.v
+*_stub.vhdl
+*_funcsim.v
+*_funcsim.vhdl
+.Xil/
+
+# Cocotb / Iverilog simulation files (found in sources_1/imports/new/sim_build)
+**/sim_build/
+*.fst
+*.vvp
+results.xml
+
+# macOS system files
+.DS_Store
+**/.DS_Store
